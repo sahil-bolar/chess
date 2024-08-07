@@ -11,6 +11,8 @@ This is only meant to be a good heuristic. But can I arrive at an analytic value
 
 In this naive approach, I assume that only the relative amounts of each piece contributes to the likelihood of a player winning/losing. Only games that ended in a checkmate are included in this analysis.
 
+Data sourced from ![here]("https://www.kaggle.com/datasets/datasnaek/chess?resource=download")
+
 # Results
 
 ![Results](img/results.png)
